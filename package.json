@@ -10,7 +10,8 @@
   "dependencies": {
     "ant-design-vue": "^3.2.3",
     "shard-render": "0.0.2",
-    "vue": "^3.2.25"
+    "vue": "^3.2.25",
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.1",
